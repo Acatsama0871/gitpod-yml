@@ -35,3 +35,4 @@ vscode:
     - kevinrose.vsc-python-indent
     - isualstudioexptteam.vscodeintellicode
     - sourcery.sourcery
+    - ms-python.vscode-pylance
